@@ -1,5 +1,3 @@
-# Face-Recognitation-Attendance-System
-A Python-based Face Recognition Attendance System using OpenCV and Haar Cascade for real-time automated attendance tracking.
 # 🎯 Face Recognition Attendance System
 
 A Python-based real-time face recognition attendance system using OpenCV. This project automates the attendance process by recognizing and recording faces using a webcam, ensuring accuracy and reducing manual errors.
